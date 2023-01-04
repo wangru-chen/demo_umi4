@@ -12,10 +12,5 @@ export const layout = () => {
     menu: {
       locale: false,
     },
-    collapsedButtonRender: (collapsed) => (
-        <div>
-          自定义按钮
-        </div>
-    ),
   };
 };
